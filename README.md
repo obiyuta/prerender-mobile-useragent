@@ -1,4 +1,4 @@
-# prerender-mobile-useragent
+# prerender-mobile-useragent [![npm version](https://badge.fury.io/js/prerender-mobile-useragent.svg)](https://badge.fury.io/js/prerender-mobile-useragent)
 [Prerender](https://github.com/prerender/prerender) plugin that enables you to create snapshots that prepared for mobile devices(iPhone, Android...).
 
 ## How it works

@@ -9,9 +9,9 @@
 PhantomJS/x.x.x ...
 ```
 
-If you prepare pages, layouts or styles for mobiles depends on those useragent, you need to be requested with mobile useragent.
+If you prepare pages, layouts or styles for mobiles depends on those useragent, you have to request with mobile useragent.
 
-So this plugin adds 'iPhone'(default) to the useragent when the original request is from mobile devices or bot.
+So this plugin adds 'iPhone'(default) to the Phantom's useragent when the original request is from mobile devices or bot.
 
 ```
 PhantomJS/x.x.x ... iPhone

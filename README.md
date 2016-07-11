@@ -17,7 +17,11 @@ So this plugin adds 'iPhone'(default) to the Phantom's useragent when the origin
 PhantomJS/x.x.x ... iPhone
 ```
 
-## How to use
+## Requirement
+
+- Prerender >= 4.0.2
+
+## Usage
 
 In your local prerender project run:
 
